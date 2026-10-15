@@ -2,9 +2,6 @@
 
 ### • Designer of autonomous offensive security tools and LLM/MCP architectures.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlan06&label=Profile views&color=0e75b6&style=flat" alt="ahlan06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahlan06" alt="ahlan06" /></a> </p>
 
 - 🔭 I'm currently working on **Pentest OS**
 
