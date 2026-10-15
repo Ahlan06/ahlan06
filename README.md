@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **The development of Pentest OS. I am looking for individuals passionate about offensive security and AI to optimize the automation of audits and Red Team operations.**
 
-- 🤝 I'm looking for help with **L'optimisation des invites systèmes (prompts) et le packaging Docker sécurisé de mon framework Pentest OS.**
+- 🤝 I'm looking for help with **Optimization of system prompts and secure Docker packaging for my Pentest OS framework.**
 
 - 💬 Ask me about **The MCP protocol, AI multi-agent orchestration with Python, and the automation of penetration testing.**
 
